@@ -52,15 +52,6 @@ main {
 main {
 	padding: 0 30px;
 }
-
-main h1 {
-	font-size: 150%;
-	padding: .3em 0;
-    border-top: 3px solid #931420;
-    border-bottom: 3px solid #931420;
-}
-
-
 main h1 {
 	font-size: 150%;
 	border: 3px double #800000;
